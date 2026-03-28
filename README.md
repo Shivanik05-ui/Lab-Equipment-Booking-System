@@ -1,5 +1,4 @@
 # Lab-Equipment-Booking-System
-# Lab Equipment Booking System
 
 ## 📌 Project Description
 This project is a full-stack web application designed to manage lab equipment bookings efficiently. It allows users to view available equipment, book time slots, and track usage in real-time.
@@ -52,4 +51,7 @@ This project is a full-stack web application designed to manage lab equipment bo
 ---
 
 ## 👩‍💻 Developed By
-Shivani
+Shivani-2420030702
+Prashamsa-2420030692
+Dhanushree-2420090101
+Gopi Krishna-2420030678
